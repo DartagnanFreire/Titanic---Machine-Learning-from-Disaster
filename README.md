@@ -1,5 +1,5 @@
 # Titanic---Machine-Learning-from-Disaster
-I use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
+I used machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
 
 The Challenge
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
